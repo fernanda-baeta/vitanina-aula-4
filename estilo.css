@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+#topo-do-site {
+color:white;
+text-align: center;
+background-color: #21022d;
+padding: 8px;
+}
+
+.final{
+    color:white;
+    text-align: center;
+    background-color: #21022d;
+    padding: 8px;
+    }
+
+#fundo{
+background-color: #e2d8e7;
+margin: 24px;
+}
+
+h2 {
+ margin: 16px;
+ margin-bottom: 32px;
+}
+
+
+img{
+    width: 150px;
+    height: 150px;
+}
+
+
+#sem-lactose{
+    text-align: center;
+}
+
+.imagens-sem-lactose{
+    width: 600px;
+    height: 300px;
+}
+
+#vitaminas{
+  padding: 32px;
+
+}
